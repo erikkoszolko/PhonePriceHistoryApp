@@ -1,0 +1,28 @@
+table td{
+    border: solid 1px white;
+    color: white;
+
+}
+th{
+    background-color: rgb(116, 116, 116);
+    border: solid 1px white;
+    padding: 10px;
+}
+td{
+    padding: 10px;
+}
+tr:hover td{
+    background-color: rgb(153, 153, 153);
+    color: black;
+}
+
+input{
+    font-size: 20px;
+    padding: 10px;
+    margin: auto;
+
+}
+.detailtable{
+    display:flex; 
+    flex-direction:row;
+}
